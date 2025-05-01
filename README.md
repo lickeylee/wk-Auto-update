@@ -1,7 +1,7 @@
 
 # wk-Auto-update
 
-自动同步 BPB-Worker-Panel 项目的最新 worker.js 文件。
+自动同步 BPB-Worker-Panel 项目的最新 worker.js 文件。(URL: ${domain name}/panel)
 
 ## 🚀 快速开始（适合 Fork）
 
